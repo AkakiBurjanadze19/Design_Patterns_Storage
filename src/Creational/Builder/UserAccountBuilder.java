@@ -69,6 +69,18 @@ public class UserAccountBuilder {
     }
 
     public UserAccount createUserAccount() {
-        return new UserAccount(username, email, firstName, lastName, age, phoneNumber, address, isPremium, twoFactorEnabled, profilePictureUrl, bio);
+        return new UserAccount(
+                username,
+                email,
+                firstName,
+                lastName,
+                age,
+                phoneNumber,
+                address,
+                isPremium,
+                twoFactorEnabled,
+                profilePictureUrl,
+                bio
+        );
     }
 }
