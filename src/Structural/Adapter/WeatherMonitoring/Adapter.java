@@ -1,7 +1,7 @@
 package Structural.Adapter.WeatherMonitoring;
 
 public class Adapter implements City {
-    City city;
+    private City city;
 
     public Adapter(City city) {
         this.city = city;
