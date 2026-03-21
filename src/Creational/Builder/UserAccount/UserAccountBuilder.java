@@ -1,4 +1,4 @@
-package Creational.Builder;
+package Creational.Builder.UserAccount;
 
 public class UserAccountBuilder {
     private String username;

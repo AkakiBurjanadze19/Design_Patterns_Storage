@@ -1,4 +1,4 @@
-package Creational.Factory;
+package Creational.Factory.NotificationService;
 
 public class EmailNotification implements Notification {
     @Override

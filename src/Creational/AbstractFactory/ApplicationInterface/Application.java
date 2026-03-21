@@ -1,4 +1,4 @@
-package Creational.AbstractFactory;
+package Creational.AbstractFactory.ApplicationInterface;
 
 public class Application {
     private Button button;

@@ -1,4 +1,4 @@
-package Creational.Prototype;
+package Creational.Prototype.Car;
 
 public class Person implements Cloneable {
     private String firstName;

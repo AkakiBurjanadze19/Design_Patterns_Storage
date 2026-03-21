@@ -1,4 +1,4 @@
-package Creational.Factory;
+package Creational.Factory.NotificationService;
 
 public class PushNotification implements Notification {
     @Override

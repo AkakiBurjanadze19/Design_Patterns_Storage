@@ -1,6 +1,6 @@
-package Creational.AbstractFactory.Windows;
+package Creational.AbstractFactory.ApplicationInterface.Windows;
 
-import Creational.AbstractFactory.Button;
+import Creational.AbstractFactory.ApplicationInterface.Button;
 
 public class WindowsButton implements Button {
     @Override

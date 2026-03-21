@@ -1,7 +1,7 @@
-package Creational.AbstractFactory;
+package Creational.AbstractFactory.ApplicationInterface;
 
-import Creational.AbstractFactory.Linux.LinuxButton;
-import Creational.AbstractFactory.Linux.LinuxCheckbox;
+import Creational.AbstractFactory.ApplicationInterface.Linux.LinuxButton;
+import Creational.AbstractFactory.ApplicationInterface.Linux.LinuxCheckbox;
 
 public class LinuxFactory implements GUIFactory {
     @Override

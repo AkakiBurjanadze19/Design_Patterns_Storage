@@ -1,4 +1,4 @@
-package Creational.Factory;
+package Creational.Factory.NotificationService;
 
 public class NotificationFactory {
     public Notification createNotification(NotificationType channel) {

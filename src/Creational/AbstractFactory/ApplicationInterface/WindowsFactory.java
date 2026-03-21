@@ -1,7 +1,7 @@
-package Creational.AbstractFactory;
+package Creational.AbstractFactory.ApplicationInterface;
 
-import Creational.AbstractFactory.Windows.WindowsButton;
-import Creational.AbstractFactory.Windows.WindowsCheckbox;
+import Creational.AbstractFactory.ApplicationInterface.Windows.WindowsButton;
+import Creational.AbstractFactory.ApplicationInterface.Windows.WindowsCheckbox;
 
 public class WindowsFactory implements GUIFactory {
     @Override

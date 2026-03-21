@@ -1,6 +1,6 @@
-package Creational.AbstractFactory.Windows;
+package Creational.AbstractFactory.ApplicationInterface.Windows;
 
-import Creational.AbstractFactory.Checkbox;
+import Creational.AbstractFactory.ApplicationInterface.Checkbox;
 
 public class WindowsCheckbox implements Checkbox {
     @Override

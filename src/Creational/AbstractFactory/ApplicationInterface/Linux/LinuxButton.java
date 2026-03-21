@@ -1,6 +1,6 @@
-package Creational.AbstractFactory.Linux;
+package Creational.AbstractFactory.ApplicationInterface.Linux;
 
-import Creational.AbstractFactory.Button;
+import Creational.AbstractFactory.ApplicationInterface.Button;
 
 public class LinuxButton implements Button {
     @Override

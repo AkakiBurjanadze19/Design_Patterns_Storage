@@ -1,4 +1,4 @@
-package Creational.AbstractFactory;
+package Creational.AbstractFactory.ApplicationInterface;
 
 public interface GUIFactory {
     Button createButton();

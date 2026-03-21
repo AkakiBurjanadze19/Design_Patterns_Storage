@@ -1,7 +1,7 @@
-package Creational.AbstractFactory;
+package Creational.AbstractFactory.ApplicationInterface;
 
-import Creational.AbstractFactory.Mac.MacButton;
-import Creational.AbstractFactory.Mac.MacCheckbox;
+import Creational.AbstractFactory.ApplicationInterface.Mac.MacButton;
+import Creational.AbstractFactory.ApplicationInterface.Mac.MacCheckbox;
 
 public class MacFactory implements GUIFactory {
     @Override

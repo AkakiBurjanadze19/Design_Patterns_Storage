@@ -1,4 +1,4 @@
-package Creational.Singleton;
+package Creational.Singleton.DatabaseManager;
 
 public class DatabaseConnectionManager {
     private static DatabaseConnectionManager instance;

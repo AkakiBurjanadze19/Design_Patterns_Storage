@@ -1,4 +1,4 @@
-package Creational.Singleton;
+package Creational.Singleton.DatabaseManager;
 
 public class Usage {
     public static void main(String[] args) {

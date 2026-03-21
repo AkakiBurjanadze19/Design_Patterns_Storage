@@ -1,6 +1,6 @@
-package Creational.AbstractFactory.Linux;
+package Creational.AbstractFactory.ApplicationInterface.Linux;
 
-import Creational.AbstractFactory.Checkbox;
+import Creational.AbstractFactory.ApplicationInterface.Checkbox;
 
 public class LinuxCheckbox implements Checkbox {
     @Override

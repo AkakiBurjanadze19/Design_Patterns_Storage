@@ -1,6 +1,6 @@
-package Creational.AbstractFactory.Mac;
+package Creational.AbstractFactory.ApplicationInterface.Mac;
 
-import Creational.AbstractFactory.Checkbox;
+import Creational.AbstractFactory.ApplicationInterface.Checkbox;
 
 public class MacCheckbox implements Checkbox {
     @Override

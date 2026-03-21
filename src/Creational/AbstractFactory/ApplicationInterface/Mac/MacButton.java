@@ -1,6 +1,6 @@
-package Creational.AbstractFactory.Mac;
+package Creational.AbstractFactory.ApplicationInterface.Mac;
 
-import Creational.AbstractFactory.Button;
+import Creational.AbstractFactory.ApplicationInterface.Button;
 
 public class MacButton implements Button {
     @Override
