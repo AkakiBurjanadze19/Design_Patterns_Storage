@@ -2,10 +2,10 @@ package Behavioral.ChainOfResponsibility.SupportSystem;
 
 public class Client {
     public static void main(String[] args) {
-        BotHandler botHandler = new BotHandler();
-        JuniortechnicianHandler juniortechnicianHandler = new JuniortechnicianHandler();
-        SeniorengineerHandler seniorengineerHandler = new SeniorengineerHandler();
-        CtoHandler ctoHandler = new CtoHandler();
+        SupportHandler botHandler = new BotHandler();
+        SupportHandler juniortechnicianHandler = new JuniortechnicianHandler();
+        SupportHandler seniorengineerHandler = new SeniorengineerHandler();
+        SupportHandler ctoHandler = new CtoHandler();
 
         botHandler.setNextHandler(juniortechnicianHandler);
         juniortechnicianHandler.setNextHandler(seniorengineerHandler);
