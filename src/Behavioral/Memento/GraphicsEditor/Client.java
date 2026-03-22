@@ -1,4 +1,4 @@
-package Behavioral.Memento;
+package Behavioral.Memento.GraphicsEditor;
 
 public class Client {
     public static void main(String[] args) {

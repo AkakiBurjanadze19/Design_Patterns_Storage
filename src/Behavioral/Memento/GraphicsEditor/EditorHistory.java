@@ -1,4 +1,4 @@
-package Behavioral.Memento;
+package Behavioral.Memento.GraphicsEditor;
 
 import java.util.Stack;
 
